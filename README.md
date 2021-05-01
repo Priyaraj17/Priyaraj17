@@ -3,28 +3,18 @@
 <img align="right" alt="GIF" src="https://github.com/Priyaraj17/gif/blob/main/tenor.gif" width="500"/>
 <p>
   🔭 I’m currently learning Web Development, Machine Learning and Data Science.
-</p>
-
-<p>
+</p><p>
   📎 Contributing actively to Public Labs which is an open hardware and software
   to help communities measure and analyze pollution and caMicroscope which is a
   Digital Pathology.
-</p>
-
-<p>
-  🤔 I love to explore and read about new technologies in the world of computer
+</p><p>
+  📚 I love to explore and read about new technologies in the world of computer
   science and mathematics.
-</p>
-
-<p>
+</p><p>
   🎓 Studying Electronics and Communication Engineering, Machine Learning and
   Data Science.
-</p>
+</p><p>💻 Software Engineer Intern at Bosscoder Academy.</p><p>🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p><p>🍵 Chai(Tea) is 💟</p>
 
-<p>💻 Software Engineer Intern at Bosscoder Academy.</p>
-
-<p>🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p>
-<p>🍵 Chai(Tea) is 💟</p>
 
 
 
