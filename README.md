@@ -1,13 +1,15 @@
 <h2> Hey there! I'm Priyaraj.
 <h3> 👨  About Me </h3>
 <img align="right" alt="GIF" src="https://github.com/Priyaraj17/gif/blob/main/tenor.gif" width="500"/>
-- 🔭 &nbsp; I’m currently learning Web Development, Machine Learning and Data Science.
-- 📎 &nbsp; Contributing actively to Public Labs which is an open hardware and software to help communities measure and analyze pollution and caMicroscope which is a Digital                    Pathology. 
-- 🤔  &nbsp; I love to explore and read about new technologies in the world of computer science and mathematics.
-- 🎓 &nbsp; Studying Electronics and Communication Engineering, Machine Learning and Data Science.
-- 💻 &nbsp; Software Engineer Intern at Bosscoder Academy.
-- 🌱 &nbsp; Enthusiast in Open Source, Web Development and Machine Learning.
-- 🍵 &nbsp; Chai(Tea) is 💟  
+
+🔭 &nbsp; I’m currently learning Web Development, Machine Learning and Data Science.
+ 📎 &nbsp; Contributing actively to Public Labs which is an open hardware and software to help communities measure and analyze pollution and caMicroscope which is a Digital                 Pathology. 
+ 🤔  &nbsp; I love to explore and read about new technologies in the world of computer science and mathematics.
+ 🎓 &nbsp; Studying Electronics and Communication Engineering, Machine Learning and Data Science.
+ 💻 &nbsp; Software Engineer Intern at Bosscoder Academy.
+ 🌱 &nbsp; Enthusiast in Open Source, Web Development and Machine Learning.
+ 🍵 &nbsp; Chai(Tea) is 💟  
+
 
 <h3>🛠 Tech Stack</h3>
 
