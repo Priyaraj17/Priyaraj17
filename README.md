@@ -20,7 +20,6 @@
 
 <h3>🛠 Tech Stack</h3>
 
-
 <br>
 
 - 💻  &nbsp; Python | Javascript | C++ | Java   
@@ -30,8 +29,13 @@
 - 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
 
 
-
 </br>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Priyaraj17&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Priyaraj17&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 
 
 
