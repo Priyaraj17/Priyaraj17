@@ -13,7 +13,14 @@
 </p><p>
   🎓 Studying Electronics and Communication Engineering, Machine Learning and
   Data Science.
-</p><p>💻 Software Engineer Intern at Bosscoder Academy.</p><p>🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p><p>🍵 Chai(Tea) is 💟</p>
+</p>
+ <p>
+   💻 Former Software Engineer Intern at Bosscoder Academy.
+ </p>
+  <p>
+    Github Extern Student Developer at Manticore Search 21.
+  </p>
+ <p>🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p><p>🍵 Chai(Tea) is 💟</p>
 
 
 
