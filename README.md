@@ -1,6 +1,15 @@
 <h2> Hey there! I'm Priyaraj.
 <h3> 👨  About Me </h3>
 <img align="right" alt="GIF" src="https://github.com/Priyaraj17/gif/blob/main/tenor.gif" width="500"/>
+  <p>
+    💻 MLH Fellow October Prep Program
+ </p>
+  <p>
+     💻 Github Extern Student Developer at Manticore Search 21.
+  </p>
+  <p>
+   💻 Former Software Engineer Intern at Bosscoder Academy.
+ </p>
 <p>
   🔭 I’m currently learning Web Development, Machine Learning and Data Science.
 </p><p>
@@ -14,12 +23,6 @@
   🎓 Studying Electronics and Communication Engineering, Machine Learning and
   Data Science.
 </p>
- <p>
-   💻 Former Software Engineer Intern at Bosscoder Academy.
- </p>
-  <p>
-    Github Extern Student Developer at Manticore Search 21.
-  </p>
  <p>🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p><p>🍵 Chai(Tea) is 💟</p>
 
 
