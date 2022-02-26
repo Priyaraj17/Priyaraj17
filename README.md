@@ -1,6 +1,9 @@
 <h2> Hey there! I'm Priyaraj.
 <h3> 👨  About Me </h3>
 <img align="right" alt="GIF" src="https://github.com/Priyaraj17/gif/blob/main/tenor.gif" width="500"/>
+  <p> 
+    🖥 SDE Intern at Amazon 
+    </p>
   <p>
     💻 MLH Fellow October Prep Program
  </p>
