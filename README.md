@@ -54,10 +54,11 @@
 
 
 
-<h3> Feel free to connect with me </h3>
+## Feel free to connect with me
 
 <p align="center">
-&nbsp;  <a href="https://instagram.com/priyaraj.17?igshid=1uxjsu45c6hf6" alt="Instagram"><img src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/></a>
-&nbsp;  <a href="https://www.linkedin.com/in/priyaraj-sharma-9a2101187"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>
-&nbsp;  <a href="mailto:priyaraj.17@outlook.com"><img src="https://img.icons8.com/doodle/48/000000/ms-outlook.png"/></a>
+&nbsp; <a href="https://twitter.com/Helix_17"><img src="https://img.icons8.com/color/72/000000/twitter--v1.png"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/priyaraj-sharma-9a2101187"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
+&nbsp; <a href="https://github.com/Priyaraj17"><img src="https://img.icons8.com/nolan/72/github.png"/></a>
+</p>
 
